@@ -1,0 +1,7 @@
+/Urho3D
+*.log
+*.exe
+*.user
+*.swp
+*.autosave
+
